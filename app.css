@@ -1,0 +1,29 @@
+.playArea{
+	height: 30vh;
+	position:absolute;
+	top:30vh;
+	right:45vw;
+	/*width: 30vh;*/
+}
+.row{
+	clear:left;
+}
+.box{
+	height: 10vh;
+	width: 10vh;
+	border-color: red;
+	border-width: 1px;
+	border-style: solid;
+	display: inline-block;
+	float:left;
+}
+
+.cross{
+	background-image: url('./images/cross.png');
+	background-size: cover;
+}
+
+.round{
+	background-image: url('./images/round.png');
+	background-size: cover;
+}
