@@ -1,3 +1,10 @@
+.controlPanel{
+	height: 10vh;
+	position:absolute;
+	top:10vh;
+	right:45vw;
+}
+
 .playArea{
 	height: 30vh;
 	position:absolute;
